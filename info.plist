@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zvxrzpxraq@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>memco</string>
+	<key>description</key>
+	<string>Oceanic theme features light-on-dark ocean-inspired colors.  Based on Erebus.</string>
+	<key>isDisabled</key>
+	<false/>
+	<key>name</key>
+	<string>Oceanic</string>
+	<key>uuid</key>
+	<string>C235815D-BE52-4F49-9ACA-5113D45F21FE</string>
+</dict>
+</plist>

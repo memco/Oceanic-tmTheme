@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>memco</string>
+	<key>comment</key>
+	<string>Muted variant of the oceanic theme featuring slightly desaturated colors</string>
 	<key>name</key>
-	<string>Oceanic Muted</string>
+	<string>Oceanic — Muted</string>
 	<key>settings</key>
 	<array>
 		<dict>
