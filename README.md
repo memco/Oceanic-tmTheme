@@ -9,7 +9,7 @@ Oceanic is a theme/color scheme for TextMate/Sublime featuring light-on-dark oce
 The original oceanic theme was derrived from [Erebus](https://github.com/Anomareh/Erebus.tmTheme).  It is a little more subdued in tone than the eighties alternate.
 
 ### Preview
-<img src="images/regular.png" style="max-width:100%;">
+<img src="Images/regular.png" style="max-width:100%;">
 
 <a name="eighties"></a>
 ## Eighties (beta)
