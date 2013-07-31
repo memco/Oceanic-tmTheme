@@ -68,8 +68,6 @@
 			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
 			</dict>
@@ -81,8 +79,6 @@
 			<string>keyword, storage, storage.type, entity.name.tag.css, constant.other.php</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#CC99CC</string>
 			</dict>
@@ -94,8 +90,6 @@
 			<string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#6699CC</string>
 			</dict>
@@ -129,8 +123,6 @@
 			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#99CC99</string>
 			</dict>
@@ -142,8 +134,6 @@
 			<string>entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#FFCC66</string>
 			</dict>
@@ -155,8 +145,6 @@
 			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#F99157</string>
 			</dict>
@@ -192,8 +180,6 @@
 			<dict>
 				<key>background</key>
 				<string>#F2777A59</string>
-				<key>fontStyle</key>
-				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,8 +202,6 @@
 			<dict>
 				<key>background</key>
 				<string>#CC99CC59</string>
-				<key>fontStyle</key>
-				<string></string>
 			</dict>
 		</dict>
 		<dict>
