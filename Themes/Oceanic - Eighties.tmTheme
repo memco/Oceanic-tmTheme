@@ -111,7 +111,7 @@
 			<key>name</key>
 			<string>Operator, Misc</string>
 			<key>scope</key>
-			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.definition.tag.*.*, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html</string>
+			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.definition.tag.*.*, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.bold.markdown, punctuation.definition.italic.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -232,7 +232,7 @@
 			<key>name</key>
 			<string>Bold markup</string>
 			<key>scope</key>
-			<string>markup.bold, punctuation.definition.bold</string>
+			<string>markup.bold</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -245,7 +245,7 @@
 			<key>name</key>
 			<string>Italic markup</string>
 			<key>scope</key>
-			<string>markup.italic, punctuation.definition.italic</string>
+			<string>markup.italic</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
