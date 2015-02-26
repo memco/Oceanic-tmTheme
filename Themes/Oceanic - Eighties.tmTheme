@@ -48,6 +48,8 @@
 				<string>#11232D</string>
 				<key>selectionBorder</key>
 				<string>#F99157</string>
+				<key>activeGuide</key>
+				<string>#FC6C76</string>
 			</dict>
 		</dict>
 		<dict>
