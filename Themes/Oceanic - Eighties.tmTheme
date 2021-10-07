@@ -122,7 +122,7 @@
 			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter</string>
+			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted, markup.inserted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -155,7 +155,7 @@
 			<key>name</key>
 			<string>Tag</string>
 			<key>scope</key>
-			<string>entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter</string>
+			<string>entity.name.tag, meta.tag.sgml, markup.deleted, markup.deleted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
